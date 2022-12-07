@@ -1,3 +1,3 @@
 ```
-C: OS/lab3/src/main.c
+C: src/main.c
 ```
