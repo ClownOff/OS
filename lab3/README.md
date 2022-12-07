@@ -1,2 +1,2 @@
-``` :src/main.c
+``` C:src/main.c
 ```
