@@ -1,3 +1,2 @@
-```
-C: src/main.c
+``` :src/main.c
 ```
