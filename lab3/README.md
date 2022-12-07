@@ -1,4 +1,4 @@
-``` 
+``` :src/main.c
 #include <stdio.h>
 
 #include <math.h>
