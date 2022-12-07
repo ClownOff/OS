@@ -1,3 +1,6 @@
+- name: Markdown Embed Code From File
+  uses: tokusumi/markdown-embed-code@v1.0.0
+
 ```
 C: OS/lab3/src/main.c
 include <stdio.h>
